@@ -1,0 +1,14 @@
+{
+  "name": "ls-lint-tutorial",
+  "version": "1.0.0",
+  "description": "ls-lint-tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ls-lint/ls-lint": "^2.2.3"
+  }
+}

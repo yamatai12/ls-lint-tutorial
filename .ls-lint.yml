@@ -1,0 +1,12 @@
+# ls:
+#   src:
+#     .ts: snake_case | camelCase
+#     .html: regex:[a-z0-9]+
+
+# ignore:
+#   - node_modules
+ls:
+    .dir: camelCase
+ignore:
+  - node_modules
+  - .git
